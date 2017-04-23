@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         else
         {
             Log.i("Toggle" , "Can't change gps");
-
+            //This note is added from github.
         }
 
     }
