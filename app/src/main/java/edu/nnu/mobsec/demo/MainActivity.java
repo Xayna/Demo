@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
             Log.i("Toggle" , "Can't change gps");
             //this is a test comment
 
+            //This note is added from github.
         }
 
     }
